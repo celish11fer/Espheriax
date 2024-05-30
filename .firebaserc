@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "espheriax-37c0c": {
+      "hosting": {
+        "consulting-client": [
+          "espheriax-37c0c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "espheriax-37c0c"
+  }
+}

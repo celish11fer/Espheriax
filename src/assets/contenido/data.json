@@ -1,0 +1,60 @@
+{
+    "companyname":"Espheriax",
+    "modules":[
+        {
+            "name":"about",
+            "content":{
+                "language":"Es",
+                "visible":1,
+                "title":"¿Quienes somos?",
+                "text":"Hola. Somos Espheriax. un(a) Agencia de desarrollo web en  Ciudad de México. Creamos y desarrollamos sitios web increibles, interactivos y faciles de usar. Nos encanta colaborar con nuestros clientes  para construir una pagina web personalizada llena de funciones útiles"
+            }
+        },
+        {
+            "name":"features",
+            "content":{
+                "language":"Es",
+                "visible":0,
+                "title":"",
+                "text":""
+            }
+        },
+        {
+            "name":"servicios",
+            "content":{
+                "language":"Es",
+                "visible":1,
+                "title":"NUESTROS SERVICIOS",
+                "text":""
+            }
+        },
+        {
+            "name":"portafolios",
+            "content":{
+                "language":"Es",
+                "visible":0,
+                "title":"",
+                "text":""
+            }
+        },
+        {
+            "name":"team",
+            "content":{
+                "language":"Es",
+                "visible":0,
+                "title":"",
+                "text":""
+            }
+        },
+        {
+            "name":"contact",
+            "content":{
+                "language":"Es",
+                "visible":0,
+                "title":"",
+                "text":""
+            }
+        }
+    ]
+    
+}
